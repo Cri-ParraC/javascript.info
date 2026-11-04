@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Where does it write?
 
 We have `rabbit` inheriting from `animal`.

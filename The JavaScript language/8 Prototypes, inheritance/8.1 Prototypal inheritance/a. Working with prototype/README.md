@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Working with prototype
 
 Here's the code that creates a pair of objects, then modifies them.

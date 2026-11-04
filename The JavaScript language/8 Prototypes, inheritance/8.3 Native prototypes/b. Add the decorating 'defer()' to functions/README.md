@@ -1,7 +1,3 @@
-importance: 4
-
----
-
 # Add the decorating "defer()" to functions
 
 Add to the prototype of all functions the method `defer(ms)`, that returns a wrapper, delaying the call by `ms` milliseconds.

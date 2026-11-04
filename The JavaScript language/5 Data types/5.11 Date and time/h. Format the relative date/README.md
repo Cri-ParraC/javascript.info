@@ -1,7 +1,3 @@
-importance: 4
-
----
-
 # Format the relative date
 
 Write a function `formatDate(date)` that should format `date` as follows:

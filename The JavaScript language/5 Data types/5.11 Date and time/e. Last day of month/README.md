@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Last day of month?
 
 Write a function `getLastDayOfMonth(year, month)` that returns the last day of month. Sometimes it is 30th, 31st or even 28/29th for Feb.

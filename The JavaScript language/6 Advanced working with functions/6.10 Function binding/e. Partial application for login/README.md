@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Partial application for login
 
 The task is a little more complex variant of <info:task/question-use-bind>. 

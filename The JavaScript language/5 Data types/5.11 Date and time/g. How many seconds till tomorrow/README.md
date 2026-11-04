@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # How many seconds till tomorrow?
 
 Create a function `getSecondsToTomorrow()` that returns the number of seconds till tomorrow.

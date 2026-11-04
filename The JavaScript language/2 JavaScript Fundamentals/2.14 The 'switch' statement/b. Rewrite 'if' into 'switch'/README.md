@@ -1,7 +1,3 @@
-importance: 4
-
----
-
 # Rewrite "if" into "switch"
 
 Rewrite the code below using a single `switch` statement:

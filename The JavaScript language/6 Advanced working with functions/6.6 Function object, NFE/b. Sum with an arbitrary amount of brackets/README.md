@@ -1,7 +1,3 @@
-importance: 2
-
----
-
 # Sum with an arbitrary amount of brackets
 
 Write function `sum` that would work like this:

@@ -1,7 +1,3 @@
-importance: 2
-
----
-
 # Syntax check
 
 What is the result of this code?

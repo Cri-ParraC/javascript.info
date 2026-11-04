@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Throttle decorator
 
 Create a "throttling" decorator `throttle(f, ms)` -- that returns a wrapper.

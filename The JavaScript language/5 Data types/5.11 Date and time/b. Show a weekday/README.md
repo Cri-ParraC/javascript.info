@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Show a weekday
 
 Write a function `getWeekDay(date)` to show the weekday in short format: 'MO', 'TU', 'WE', 'TH', 'FR', 'SA', 'SU'.

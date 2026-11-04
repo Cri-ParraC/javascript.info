@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Destructuring assignment
 
 We have an object:

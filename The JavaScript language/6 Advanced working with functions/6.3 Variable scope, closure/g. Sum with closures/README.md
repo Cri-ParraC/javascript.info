@@ -1,7 +1,3 @@
-importance: 4
-
----
-
 # Sum with closures
 
 Write function `sum` that works like this: `sum(a)(b) = a+b`.

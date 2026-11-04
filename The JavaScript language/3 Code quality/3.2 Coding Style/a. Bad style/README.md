@@ -1,7 +1,3 @@
-importance: 4
-
----
-
 # Bad style
 
 What's wrong with the code style below?

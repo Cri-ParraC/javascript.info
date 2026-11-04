@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # The maximal salary 
 
 There is a `salaries` object:

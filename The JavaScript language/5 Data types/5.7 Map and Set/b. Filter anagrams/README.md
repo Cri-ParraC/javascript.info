@@ -1,7 +1,3 @@
-importance: 4
-
----
-
 # Filter anagrams
 
 [Anagrams](https://en.wikipedia.org/wiki/Anagram) are words that have the same number of same letters, but in different order.

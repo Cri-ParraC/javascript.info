@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Second bind
 
 Can we change `this` by additional binding?

@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Add toString to the dictionary
 
 There's an object `dictionary`, created as `Object.create(null)`, to store any `key/value` pairs.

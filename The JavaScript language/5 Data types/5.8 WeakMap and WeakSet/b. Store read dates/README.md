@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Store read dates
 
 There's an array of messages as in the [previous task](info:task/recipients-read). The situation is similar.

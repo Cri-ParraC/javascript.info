@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Sort by field
 
 We've got an array of objects to sort:

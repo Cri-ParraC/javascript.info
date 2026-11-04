@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # What will setTimeout show?
 
 In the code below there's a `setTimeout` call scheduled, then a heavy calculation is run, that takes more than 100ms to finish.

@@ -1,7 +1,3 @@
-importance: 4
-
----
-
 # Eval-calculator
 
 Create a calculator that prompts for an arithmetic expression and returns its result.

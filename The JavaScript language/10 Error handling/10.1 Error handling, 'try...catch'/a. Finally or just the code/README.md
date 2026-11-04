@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Finally or just the code?
 
 Compare the two code fragments.

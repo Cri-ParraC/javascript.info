@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Counter object
 
 Here a counter object is made with the help of the constructor function.

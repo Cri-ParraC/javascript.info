@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Exclude backreferences
 
 In simple cases of circular references, we can exclude an offending property from serialization by its name.

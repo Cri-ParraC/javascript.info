@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # The difference between calls
 
 Let's create a new `rabbit` object:

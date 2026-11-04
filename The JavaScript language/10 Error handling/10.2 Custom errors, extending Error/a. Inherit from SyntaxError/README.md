@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Inherit from SyntaxError
 
 Create a class `FormatError` that inherits from the built-in `SyntaxError` class.

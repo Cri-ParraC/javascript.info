@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Are counters independent?
 
 Here we make two counters: `counter` and `counter2` using the same `makeCounter` function.

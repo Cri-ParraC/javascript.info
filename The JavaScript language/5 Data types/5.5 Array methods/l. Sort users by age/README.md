@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Sort users by age
 
 Write the function `sortByAge(users)` that gets an array of objects with the `age` property and sorts them by `age`.

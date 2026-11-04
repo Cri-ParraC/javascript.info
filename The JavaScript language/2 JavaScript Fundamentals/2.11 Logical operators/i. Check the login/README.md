@@ -1,7 +1,3 @@
-importance: 3
-
----
-
 # Check the login
 
 Write the code which asks for a login with `prompt`.

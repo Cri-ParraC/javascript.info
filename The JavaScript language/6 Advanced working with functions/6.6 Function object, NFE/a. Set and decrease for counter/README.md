@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Set and decrease for counter
 
 Modify the code of `makeCounter()` so that the counter can also decrease and set the number:

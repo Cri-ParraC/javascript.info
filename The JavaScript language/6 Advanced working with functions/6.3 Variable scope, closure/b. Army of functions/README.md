@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Army of functions
 
 The following code creates an array of `shooters`.

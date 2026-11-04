@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # European weekday
 
 European countries have days of week starting with Monday (number 1), then Tuesday (number 2) and till Sunday (number 7). Write a function `getLocalDay(date)` that returns the "European" day of week for `date`.

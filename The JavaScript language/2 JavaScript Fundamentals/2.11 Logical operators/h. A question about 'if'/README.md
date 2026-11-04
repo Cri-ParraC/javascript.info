@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # A question about "if"
 
 Which of these `alert`s are going to execute?

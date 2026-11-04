@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Changing "prototype"
 
 In the code below we create `new Rabbit`, and then try to modify its prototype.

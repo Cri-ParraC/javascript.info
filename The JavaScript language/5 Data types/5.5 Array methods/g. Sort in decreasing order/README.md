@@ -1,7 +1,3 @@
-importance: 4
-
----
-
 # Sort in decreasing order
 
 ```js

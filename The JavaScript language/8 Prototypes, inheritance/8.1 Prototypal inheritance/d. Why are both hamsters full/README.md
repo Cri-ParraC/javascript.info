@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Why are both hamsters full?
 
 We have two hamsters: `speedy` and `lazy` inheriting from the general `hamster` object. 

@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Rewrite the "switch" into an "if"
 
 Write the code using `if..else` which would correspond to the following `switch`:

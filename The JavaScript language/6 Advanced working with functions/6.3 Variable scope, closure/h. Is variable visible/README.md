@@ -1,7 +1,3 @@
-importance: 4
-
----
-
 # Is variable visible?
 
 What will be the result of this code?

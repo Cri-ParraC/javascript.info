@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Filter unique array members
 
 Let `arr` be an array.

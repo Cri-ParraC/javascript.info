@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # How many seconds have passed today?
 
 Write a function `getSecondsToday()` that returns the number of seconds from the beginning of today.

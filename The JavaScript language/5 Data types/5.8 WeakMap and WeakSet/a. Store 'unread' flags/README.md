@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Store "unread" flags
 
 There's an array of messages:

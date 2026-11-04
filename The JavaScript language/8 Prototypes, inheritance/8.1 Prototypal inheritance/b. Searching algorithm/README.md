@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Searching algorithm
 
 The task has two parts.

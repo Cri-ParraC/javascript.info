@@ -1,7 +1,3 @@
-importance: 3
-
----
-
 # Shuffle an array
 
 Write the function `shuffle(array)` that shuffles (randomly reorders) elements of the array.

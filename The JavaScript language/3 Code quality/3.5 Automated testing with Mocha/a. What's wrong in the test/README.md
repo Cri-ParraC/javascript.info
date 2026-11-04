@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # What's wrong in the test?
 
 What's wrong in the test of `pow` below?

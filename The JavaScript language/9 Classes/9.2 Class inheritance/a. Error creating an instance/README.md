@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Error creating an instance
 
 Here's the code with `Rabbit` extending `Animal`.

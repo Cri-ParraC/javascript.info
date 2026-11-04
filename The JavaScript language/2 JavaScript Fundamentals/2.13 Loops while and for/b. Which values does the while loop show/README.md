@@ -1,7 +1,3 @@
-importance: 4
-
----
-
 # Which values does the while loop show?
 
 For every loop iteration, write down which value it outputs and then compare it with the solution.

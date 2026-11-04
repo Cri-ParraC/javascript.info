@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Filter through function
 
 We have a built-in method `arr.filter(f)` for arrays. It filters all elements through the function `f`. If it returns `true`, then that element is returned in the resulting array.

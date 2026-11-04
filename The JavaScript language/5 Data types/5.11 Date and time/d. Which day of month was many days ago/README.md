@@ -1,7 +1,3 @@
-importance: 4
-
----
-
 # Which day of month was many days ago?
 
 Create a function `getDateAgo(date, days)` to return the day of month `days` ago from the `date`.

@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Which variables are available?
 
 The function `makeWorker` below makes another function and returns it. That new function can be called from somewhere else.

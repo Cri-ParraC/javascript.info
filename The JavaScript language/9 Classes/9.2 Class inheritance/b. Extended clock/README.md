@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Extended clock
 
 We've got a `Clock` class. As of now, it prints the time every second.

@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Sum the properties
 
 There is a `salaries` object with arbitrary number of salaries. 

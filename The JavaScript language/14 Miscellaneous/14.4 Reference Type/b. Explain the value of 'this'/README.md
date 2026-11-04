@@ -1,7 +1,3 @@
-importance: 3
-
----
-
 # Explain the value of "this"
 
 In the code below we intend to call `obj.go()` method 4 times in a row.

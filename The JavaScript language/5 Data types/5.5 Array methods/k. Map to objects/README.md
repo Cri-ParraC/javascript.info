@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Map to objects
 
 You have an array of `user` objects, each one has `name`, `surname` and `id`.

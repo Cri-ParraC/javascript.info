@@ -1,7 +1,3 @@
-importance: 5
-
----
-
 # Create an object with the same constructor
 
 Imagine, we have an arbitrary object `obj`, created by a constructor function -- we don't know which one, but we'd like to create a new object using it.

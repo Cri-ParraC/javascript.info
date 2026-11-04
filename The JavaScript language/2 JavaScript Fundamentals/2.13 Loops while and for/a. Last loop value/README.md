@@ -1,7 +1,3 @@
-importance: 3
-
----
-
 # Last loop value
 
 What is the last value alerted by this code? Why?

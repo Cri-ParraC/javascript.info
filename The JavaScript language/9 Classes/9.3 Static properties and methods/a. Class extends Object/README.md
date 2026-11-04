@@ -1,7 +1,3 @@
-importance: 3
-
----
-
 # Class extends Object?
 
 As we know, all objects normally inherit from `Object.prototype` and get access to "generic" object methods like `hasOwnProperty` etc.
